@@ -50,7 +50,7 @@ sub single_quote {
   return qq('$_');
 }
 1;
-# ABSTRACT: Quote a string like Perl does
+# ABSTRACT: Quote a string as Perl does
 
 =head1 FUNCTIONS
 
